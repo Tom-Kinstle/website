@@ -1,0 +1,100 @@
+Create a personal/professional website for Thomas Kinstle, a data scientist with a background in healthcare, logistics, and defense. The site should use a black background with white font and incorporate accents of wave imagery—specifically cropped sections of two image files: wave.jpg and Impression_waves.jpg. The visual tone should be minimal but bold, blending a technical and introspective personality.
+
+Theme & Design:
+
+Dark mode (black background, white text)
+
+Accent visuals: sliced wave art throughout the site as separators or backdrops
+
+Clean, modern layout (use grid or cards to organize content)
+
+Include four images:
+
+me.png (professional photo)
+
+thinker.png with caption: Architect (Introverted +61, Intuitive +92, Thinking +83, Judging +74)
+
+WSR.jpg (caption: Warfighter Support Representative – Afghanistan)
+
+wave.jpg and Impression_waves.jpg (for design elements, use like abstract page breaks or overlays)
+
+Sections to Include:
+
+Home / Hero Section:
+
+Large photo (me.png) with greeting:
+"Hi, I'm Tom — a data scientist who turns complex problems into strategic insights."
+
+Subtext:
+Driven by curiosity, honed through defense logistics, and fueled by data.
+
+About Me:
+
+Text from LinkedIn summary (edited for tone):
+
+I'm a data scientist with a knack for solving real-world problems across healthcare, logistics, and defense. A graduate of TripleTen’s intensive data science program, I bring a deep skillset in Python, machine learning, statistics, and visualization.
+
+My path’s been unconventional: from Air Force engine work to civilian defense logistics, to data science—fueled by a love for science fiction, museums, cooking, and strategy games.
+
+I’m currently exploring geospatial data, time series forecasting, and AI applications that enhance operational efficiency. Let’s build something valuable together.
+
+Personality Snapshot:
+
+thinker.png with caption as listed
+
+Include MBTI-inspired one-liner: Strategic by nature, structured by design.
+
+Optional addition: brief paragraph on love of problem-solving, logical structure, and lifelong learning
+
+Portfolio (6 Projects):
+Each project gets a card or section with:
+
+Title
+
+One-paragraph description (use your summaries, lightly edited)
+
+Tech stack (icons or tags: Python, pandas, scikit-learn, Tableau, etc.)
+
+Link to project (if hosted or GitHub link)
+
+Projects:
+
+Car Sales and Marketing
+
+Global Gaming Marketing Strategy
+
+Gold Mine Recovery
+
+Lift Taxi Time Series Forecasting
+
+Predictive Drilling Location Model
+
+Earthquake Geospatial Map (live map link: https://major-world-earthquakes.netlify.app/)
+
+Experience Snapshot:
+
+Key roles: Warfighter Support Representative (Afghanistan), DLA (Logistics Data Analyst), Maintenance Director at Miller’s Health Systems
+
+Highlight transition from DoD logistics to data science
+
+Downloadables / Links:
+
+Resume (PDF)
+
+GitHub
+
+LinkedIn
+
+Email or contact form (ThomasKinstle@gmail.com)
+
+Files are located here: https://github.com/Tom-Kinstle/website
+LinkedIn: https://www.linkedin.com/in/thomas-kinstle/
+GitHub:https://github.com/Tom-Kinstle/Data_projects_TripleTen
+
+Projects
+https://github.com/Tom-Kinstle/Data_projects_TripleTen/tree/main/USGS
+https://github.com/Tom-Kinstle/Data_projects_TripleTen/tree/main/car_sales_market_analysis
+https://github.com/Tom-Kinstle/Data_projects_TripleTen/tree/main/global_gamming
+https://github.com/Tom-Kinstle/Data_projects_TripleTen/tree/main/gold_recovery
+https://github.com/Tom-Kinstle/Data_projects_TripleTen/tree/main/lift_taxi
+https://github.com/Tom-Kinstle/Data_projects_TripleTen/tree/main/minning_opp
